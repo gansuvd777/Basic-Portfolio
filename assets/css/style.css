@@ -163,12 +163,7 @@ input[type=text], textarea {
 .content1 h2{
     color: #666666;
 }
-.more{
-    text-align: center;
-    color: #666666;
-    font-weight: bold;
-    font-size: 18px;
-}
+
 .mine {
     position: relative;
     width: 35%;
